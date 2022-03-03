@@ -115,11 +115,11 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 195000,28 Feb 2005,Freehold,False,"50, Coopers Lane, London, Greater London E10 5DG",Terraced,4.0,True,51.5694,-0.01037,E10 5DG, Coopers Lane,2005
 78995,24 Sep 1999,Freehold,False,"50, Coopers Lane, London, Greater London E10 5DG",Terraced,4.0,True,51.5694,-0.01037,E10 5DG, Coopers Lane,1999
 41000,22 Feb 1995,Freehold,False,"50, Coopers Lane, London, Greater London E10 5DG",Terraced,4.0,True,51.5694,-0.01037,E10 5DG, Coopers Lane,1995
-485000,29 Jun 2021,Leasehold,False,"Flat C, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, 42,2021
-450000,22 Jun 2018,Leasehold,False,"Flat C, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, 42,2018
-250000,18 Apr 2013,Leasehold,False,"Flat C, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, 42,2013
-122000,2 Jun 2000,Leasehold,False,"Flat C, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, 42,2000
-54000,7 Jun 1995,Leasehold,False,"Flat C, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, 42,1995
+485000,29 Jun 2021,Leasehold,False,"Flat C, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, Grange Park Road,2021
+450000,22 Jun 2018,Leasehold,False,"Flat C, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, Grange Park Road,2018
+250000,18 Apr 2013,Leasehold,False,"Flat C, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, Grange Park Road,2013
+122000,2 Jun 2000,Leasehold,False,"Flat C, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, Grange Park Road,2000
+54000,7 Jun 1995,Leasehold,False,"Flat C, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, Grange Park Road,1995
 507570,29 Jun 2021,Leasehold,False,"46, Brunswick Road, London, Greater London E10 6RS",Flat,2.0,True,51.56667,-0.00804,E10 6RS, Brunswick Road,2021
 323000,24 Oct 2014,Leasehold,False,"46, Brunswick Road, London, Greater London E10 6RS",Flat,2.0,True,51.56667,-0.00804,E10 6RS, Brunswick Road,2014
 116500,26 Apr 2002,Leasehold,False,"46, Brunswick Road, London, Greater London E10 6RS",Flat,2.0,True,51.56667,-0.00804,E10 6RS, Brunswick Road,2002
@@ -1055,7 +1055,7 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 525000,31 Jul 2020,Freehold,False,"39, Ruckholt Close, London, Greater London E10 5NX",Terraced,3.0,True,51.55649,-0.01267,E10 5NX, Ruckholt Close,2020
 415000,11 Sep 2015,Freehold,False,"39, Ruckholt Close, London, Greater London E10 5NX",Terraced,3.0,True,51.55649,-0.01267,E10 5NX, Ruckholt Close,2015
 196500,30 Nov 2009,Freehold,False,"39, Ruckholt Close, London, Greater London E10 5NX",Terraced,3.0,True,51.55649,-0.01267,E10 5NX, Ruckholt Close,2009
-300000,31 Jul 2020,Leasehold,False,"Flat A, 52, Buckland Road, London, Greater London E10 6QS",Flat,2.0,False,51.56365,-0.01034,E10 6QS, 52,2020
+300000,31 Jul 2020,Leasehold,False,"Flat A, 52, Buckland Road, London, Greater London E10 6QS",Flat,2.0,False,51.56365,-0.01034,E10 6QS, Buckland Road,2020
 360000,31 Jul 2020,Freehold,False,"32, Manorhall Gardens, London, Greater London E10 7AT",Terraced,3.0,False,51.56746,-0.01767,E10 7AT, Manorhall Gardens,2020
 192500,4 Jul 2005,Freehold,False,"32, Manorhall Gardens, London, Greater London E10 7AT",Terraced,3.0,False,51.56746,-0.01767,E10 7AT, Manorhall Gardens,2005
 388000,31 Jul 2020,Leasehold,False,"15, Perth Road, London, Greater London E10 7PA",Flat,2.0,True,51.5668,-0.0317,E10 7PA, Perth Road,2020
@@ -1400,9 +1400,9 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 185000,23 Sep 2011,Leasehold,False,"249, Francis Road, London, Greater London E10 6NW",Flat,2.0,True,51.56614,-0.00907,E10 6NW, Francis Road,2011
 140000,22 Dec 2003,Leasehold,False,"249, Francis Road, London, Greater London E10 6NW",Flat,2.0,True,51.56614,-0.00907,E10 6NW, Francis Road,2003
 66000,4 Feb 2000,Leasehold,False,"249, Francis Road, London, Greater London E10 6NW",Flat,2.0,True,51.56614,-0.00907,E10 6NW, Francis Road,2000
-305000,28 Oct 2019,Leasehold,False,"Flat G, 48, Thornhill Road, London, Greater London E10 5LL",Flat,1.0,True,51.56181,-0.01359,E10 5LL, 48,2019
-79000,4 May 2001,Leasehold,False,"Flat G, 48, Thornhill Road, London, Greater London E10 5LL",Flat,1.0,True,51.56181,-0.01359,E10 5LL, 48,2001
-44500,14 Jan 1999,Leasehold,False,"Flat G, 48, Thornhill Road, London, Greater London E10 5LL",Flat,1.0,True,51.56181,-0.01359,E10 5LL, 48,1999
+305000,28 Oct 2019,Leasehold,False,"Flat G, 48, Thornhill Road, London, Greater London E10 5LL",Flat,1.0,True,51.56181,-0.01359,E10 5LL, Thornhill Road,2019
+79000,4 May 2001,Leasehold,False,"Flat G, 48, Thornhill Road, London, Greater London E10 5LL",Flat,1.0,True,51.56181,-0.01359,E10 5LL, Thornhill Road,2001
+44500,14 Jan 1999,Leasehold,False,"Flat G, 48, Thornhill Road, London, Greater London E10 5LL",Flat,1.0,True,51.56181,-0.01359,E10 5LL, Thornhill Road,1999
 455000,25 Oct 2019,Leasehold,False,"13, Lawton Road, London, Greater London E10 6RR",Flat,2.0,True,51.56641,-0.00892,E10 6RR, Lawton Road,2019
 390000,12 Nov 2015,Leasehold,False,"13, Lawton Road, London, Greater London E10 6RR",Flat,2.0,True,51.56641,-0.00892,E10 6RR, Lawton Road,2015
 200000,8 Jun 2012,Leasehold,False,"13, Lawton Road, London, Greater London E10 6RR",Flat,2.0,True,51.56641,-0.00892,E10 6RR, Lawton Road,2012
@@ -1471,7 +1471,7 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 230000,25 Apr 2012,Freehold,False,"33, Manorhall Gardens, London, Greater London E10 7AT",Terraced,3.0,True,51.56746,-0.01767,E10 7AT, Manorhall Gardens,2012
 547500,18 Sep 2019,Freehold,False,"302, Murchison Road, London, Greater London E10 6LU",Terraced,4.0,True,51.5665,-0.00357,E10 6LU, Murchison Road,2019
 185000,14 Mar 2005,Freehold,False,"302, Murchison Road, London, Greater London E10 6LU",Terraced,4.0,True,51.5665,-0.00357,E10 6LU, Murchison Road,2005
-320000,17 Sep 2019,Leasehold,False,"First Floor Flat, 90, Malta Road, London, Greater London E10 7JU",Flat,1.0,True,51.57048,-0.021,E10 7JU, 90,2019
+320000,17 Sep 2019,Leasehold,False,"First Floor Flat, 90, Malta Road, London, Greater London E10 7JU",Flat,1.0,True,51.57048,-0.021,E10 7JU, Malta Road,2019
 472000,16 Sep 2019,Freehold,False,"135, Farmer Road, London, Greater London E10 5DJ",Terraced,3.0,True,51.56986,-0.01079,E10 5DJ, Farmer Road,2019
 185000,4 Jun 2004,Freehold,False,"135, Farmer Road, London, Greater London E10 5DJ",Terraced,3.0,True,51.56986,-0.01079,E10 5DJ, Farmer Road,2004
 105000,24 May 2002,Freehold,False,"135, Farmer Road, London, Greater London E10 5DJ",Terraced,3.0,True,51.56986,-0.01079,E10 5DJ, Farmer Road,2002
@@ -1535,11 +1535,11 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 460000,27 Sep 2013,Freehold,False,"2, Claude Road, London, Greater London E10 6ND",Semi-Detached,2.0,False,51.56518,-0.00551,E10 6ND, Claude Road,2013
 334000,21 Sep 2007,Freehold,False,"2, Claude Road, London, Greater London E10 6ND",Semi-Detached,2.0,False,51.56518,-0.00551,E10 6ND, Claude Road,2007
 54000,22 Mar 1996,Freehold,False,"2, Claude Road, London, Greater London E10 6ND",Semi-Detached,2.0,False,51.56518,-0.00551,E10 6ND, Claude Road,1996
-439000,9 Aug 2019,Leasehold,False,"Flat A, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, 42,2019
-230000,28 Sep 2012,Leasehold,False,"Flat A, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, 42,2012
-178000,23 Sep 2005,Leasehold,False,"Flat A, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, 42,2005
-59000,17 Apr 1998,Leasehold,False,"Flat A, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, 42,1998
-54000,30 Jun 1995,Leasehold,True,"Flat A, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, 42,1995
+439000,9 Aug 2019,Leasehold,False,"Flat A, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, Grange Park Road,2019
+230000,28 Sep 2012,Leasehold,False,"Flat A, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, Grange Park Road,2012
+178000,23 Sep 2005,Leasehold,False,"Flat A, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, Grange Park Road,2005
+59000,17 Apr 1998,Leasehold,False,"Flat A, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, Grange Park Road,1998
+54000,30 Jun 1995,Leasehold,True,"Flat A, 42, Grange Park Road, London, Greater London E10 5ES",Flat,2.0,False,51.56543,-0.01473,E10 5ES, Grange Park Road,1995
 305000,6 Aug 2019,Leasehold,False,"15a, Colchester Road, Leyton, London, Greater London E10 6HA",Terraced,1.0,True,51.57241,-0.00764,E10 6HA, Colchester Road,2019
 164995,3 Nov 2006,Leasehold,False,"15a, Colchester Road, Leyton, London, Greater London E10 6HA",Terraced,1.0,True,51.57241,-0.00764,E10 6HA, Colchester Road,2006
 83000,12 Oct 2001,Leasehold,False,"15a, Colchester Road, Leyton, London, Greater London E10 6HA",Terraced,1.0,True,51.57241,-0.00764,E10 6HA, Colchester Road,2001
