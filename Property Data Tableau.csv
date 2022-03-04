@@ -706,8 +706,8 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 160000,24 Oct 2006,Leasehold,False,"88, Malta Road, London, Greater London E10 7JU",Flat,2.0,False,51.57048,-0.021,E10 7JU, Malta Road,2006
 111000,4 Jul 2003,Leasehold,False,"88, Malta Road, London, Greater London E10 7JU",Flat,2.0,False,51.57048,-0.021,E10 7JU, Malta Road,2003
 128000,27 Jun 2003,Leasehold,False,"88, Malta Road, London, Greater London E10 7JU",Flat,2.0,False,51.57048,-0.021,E10 7JU, Malta Road,2003
-355000,15 Jan 2021,Leasehold,False,"Ground Floor Flat, 134, Essex Road, Leyton, London, Greater London E10 6BS",Flat,1.0,True,51.57722,-0.00455,E10 6BS, 134,2021
-290000,30 May 2017,Leasehold,False,"Ground Floor Flat, 134, Essex Road, Leyton, London, Greater London E10 6BS",Flat,1.0,True,51.57722,-0.00455,E10 6BS, 134,2017
+355000,15 Jan 2021,Leasehold,False,"Ground Floor Flat, 134, Essex Road, Leyton, London, Greater London E10 6BS",Flat,1.0,True,51.57722,-0.00455,E10 6BS, Essex Road,2021
+290000,30 May 2017,Leasehold,False,"Ground Floor Flat, 134, Essex Road, Leyton, London, Greater London E10 6BS",Flat,1.0,True,51.57722,-0.00455,E10 6BS, Essex Road,2017
 560000,14 Jan 2021,Freehold,False,"10, Belgrave Road, Leyton, London, Greater London E10 6LD",Terraced,3.0,True,51.56782,-0.00698,E10 6LD, Belgrave Road,2021
 366000,11 Jan 2021,Leasehold,False,"49, Thornhill Gardens, London, Greater London E10 5EW",Flat,2.0,True,51.56213,-0.01127,E10 5EW, Thornhill Gardens,2021
 328000,5 May 2017,Leasehold,False,"49, Thornhill Gardens, London, Greater London E10 5EW",Flat,2.0,True,51.56213,-0.01127,E10 5EW, Thornhill Gardens,2017
@@ -1043,7 +1043,7 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 470000,30 Mar 2017,Freehold,False,"191, Huxley Road, London, Greater London E10 5QX",Terraced,3.0,False,51.56187,-0.00652,E10 5QX, Huxley Road,2017
 600000,8 Aug 2020,Freehold,False,"16, Matlock Road, London, Greater London E10 6BU",Terraced,3.0,True,51.57643,-0.00559,E10 6BU, Matlock Road,2020
 527000,2 Jun 2017,Freehold,False,"16, Matlock Road, London, Greater London E10 6BU",Terraced,3.0,True,51.57643,-0.00559,E10 6BU, Matlock Road,2017
-351000,7 Aug 2020,Leasehold,False,"First Floor Flat, 114a, Dawlish Road, London, Greater London E10 6QW",Flat,2.0,False,51.56341,-0.00717,E10 6QW, 114a,2020
+351000,7 Aug 2020,Leasehold,False,"First Floor Flat, 114a, Dawlish Road, London, Greater London E10 6QW",Flat,2.0,False,51.56341,-0.00717,E10 6QW, Dawlish Road,2020
 310000,5 Aug 2020,Freehold,False,"6a, Albert Road, Leyton, London, Greater London E10 6NX",Terraced,1.0,False,51.56418,-0.00454,E10 6NX, Albert Road,2020
 675000,4 Aug 2020,Freehold,False,"50, Carnarvon Road, London, Greater London E10 6DP",Terraced,3.0,True,51.57875,-0.00477,E10 6DP, Carnarvon Road,2020
 485000,15 Aug 2018,Freehold,False,"50, Carnarvon Road, London, Greater London E10 6DP",Terraced,3.0,True,51.57875,-0.00477,E10 6DP, Carnarvon Road,2018
@@ -1221,14 +1221,14 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 156000,1 Aug 2005,Leasehold,False,"174, Capworth Street, London, Greater London E10 7HL",Flat,2.0,False,51.56981,-0.01872,E10 7HL, Capworth Street,2005
 90000,31 Jul 2000,Leasehold,False,"174, Capworth Street, London, Greater London E10 7HL",Flat,2.0,False,51.56981,-0.01872,E10 7HL, Capworth Street,2000
 44000,9 Jul 1998,Leasehold,False,"174, Capworth Street, London, Greater London E10 7HL",Flat,2.0,False,51.56981,-0.01872,E10 7HL, Capworth Street,1998
-385000,21 Feb 2020,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, 305,2020
-385000,21 Feb 2020,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, 305,2020
-290000,29 Jan 2016,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, 305,2016
-290000,29 Jan 2016,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, 305,2016
-385000,21 Feb 2020,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, 305,2020
-385000,21 Feb 2020,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, 305,2020
-290000,29 Jan 2016,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, 305,2016
-290000,29 Jan 2016,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, 305,2016
+385000,21 Feb 2020,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, Church Road,2020
+385000,21 Feb 2020,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, Church Road,2020
+290000,29 Jan 2016,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, Church Road,2016
+290000,29 Jan 2016,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, Church Road,2016
+385000,21 Feb 2020,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, Church Road,2020
+385000,21 Feb 2020,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, Church Road,2020
+290000,29 Jan 2016,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, Church Road,2016
+290000,29 Jan 2016,Leasehold,False,"Ground Floor Flat, 305, Church Road, Leyton, London, Greater London E10 7BQ",Flat,2.0,True,51.5668,-0.02145,E10 7BQ, Church Road,2016
 386000,21 Feb 2020,Leasehold,False,"16, Goldsmith Road, Leyton, London, Greater London E10 5HA",Terraced,2.0,True,51.56482,-0.01606,E10 5HA, Goldsmith Road,2020
 165500,5 Jul 2004,Leasehold,False,"16, Goldsmith Road, Leyton, London, Greater London E10 5HA",Terraced,2.0,True,51.56482,-0.01606,E10 5HA, Goldsmith Road,2004
 69000,11 Aug 1999,Leasehold,False,"16, Goldsmith Road, Leyton, London, Greater London E10 5HA",Terraced,2.0,True,51.56482,-0.01606,E10 5HA, Goldsmith Road,1999
