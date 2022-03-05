@@ -422,10 +422,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 302000,17 Nov 2014,Leasehold,False,"84, Brunswick Road, London, Greater London E10 6RS",Flat,2.0,False,51.56667,-0.00804,E10 6RS, Brunswick Road,2014
 87500,15 Jan 2001,Leasehold,False,"84, Brunswick Road, London, Greater London E10 6RS",Flat,2.0,False,51.56667,-0.00804,E10 6RS, Brunswick Road,2001
 575000,1 Apr 2021,Freehold,False,"65, Thornhill Road, London, Greater London E10 5LL",Terraced,3.0,True,51.56181,-0.01359,E10 5LL, Thornhill Road,2021
-485000,31 Mar 2021,Freehold,False,"27, Beaumont Road, London, Greater London E10 5BJ",Terraced,0.0,False,51.57098,-0.01333,E10 5BJ, Beaumont Road,2021
-168000,3 Nov 2003,Freehold,False,"27, Beaumont Road, London, Greater London E10 5BJ",Terraced,0.0,False,51.57098,-0.01333,E10 5BJ, Beaumont Road,2003
-132000,19 Oct 2001,Freehold,False,"27, Beaumont Road, London, Greater London E10 5BJ",Terraced,0.0,False,51.57098,-0.01333,E10 5BJ, Beaumont Road,2001
-53500,20 Nov 1996,Freehold,False,"27, Beaumont Road, London, Greater London E10 5BJ",Terraced,0.0,False,51.57098,-0.01333,E10 5BJ, Beaumont Road,1996
 300000,31 Mar 2021,Leasehold,False,"59a, Lyndhurst Drive, London, Greater London E10 6JB",Flat,1.0,True,51.5719,-0.00391,E10 6JB, Lyndhurst Drive,2021
 265000,29 Mar 2018,Leasehold,False,"59a, Lyndhurst Drive, London, Greater London E10 6JB",Flat,1.0,True,51.5719,-0.00391,E10 6JB, Lyndhurst Drive,2018
 385612,31 Mar 2021,Leasehold,False,"62, Seymour Road, Leyton, London, Greater London E10 7LY",Flat,1.0,True,51.56765,-0.02892,E10 7LY, Seymour Road,2021
@@ -669,10 +665,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 106000,14 Apr 2000,Freehold,False,"43, Belvedere Road, London, Greater London E10 7NW",Terraced,3.0,True,51.5688,-0.03349,E10 7NW, Belvedere Road,2000
 270000,29 Jan 2021,Freehold,False,"101, Skeltons Lane, London, Greater London E10 5BS",Terraced,3.0,True,51.57024,-0.01207,E10 5BS, Skeltons Lane,2021
 530000,29 Jan 2021,Freehold,False,"13, Wesley Road, London, Greater London E10 6JF",Terraced,2.0,True,51.57024,-0.00659,E10 6JF, Wesley Road,2021
-595000,29 Jan 2021,Freehold,False,"10, St Marys Road, Leyton, London, Greater London E10 5RB",Terraced,0.0,False,51.56027,-0.00745,E10 5RB, St Marys Road,2021
-65500,14 Jan 1997,Freehold,False,"10, St Marys Road, Leyton, London, Greater London E10 5RB",Terraced,0.0,False,51.56027,-0.00745,E10 5RB, St Marys Road,1997
-37500,25 Apr 1996,Freehold,False,"10, St Marys Road, Leyton, London, Greater London E10 5RB",Terraced,0.0,False,51.56027,-0.00745,E10 5RB, St Marys Road,1996
-45000,25 Apr 1996,Freehold,False,"10, St Marys Road, Leyton, London, Greater London E10 5RB",Terraced,0.0,False,51.56027,-0.00745,E10 5RB, St Marys Road,1996
 536000,29 Jan 2021,Leasehold,False,"172, Essex Road, Leyton, London, Greater London E10 6BT",Terraced,1.0,True,51.57796,-0.00581,E10 6BT, Essex Road,2021
 165000,2 Dec 2011,Leasehold,False,"172, Essex Road, Leyton, London, Greater London E10 6BT",Terraced,1.0,True,51.57796,-0.00581,E10 6BT, Essex Road,2011
 505000,29 Jan 2021,Freehold,False,"12, Millicent Road, London, Greater London E10 7LG",Terraced,2.0,True,51.56931,-0.02596,E10 7LG, Millicent Road,2021
