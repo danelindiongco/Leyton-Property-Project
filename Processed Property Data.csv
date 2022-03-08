@@ -152,7 +152,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 685000,29 Jun 2021,Freehold,False,"112, Chesterfield Road, London, Greater London E10 6EN",Terraced,4.0,True,51.57469,-0.00423,E10 6EN, Chesterfield Road,2021
 1000000,28 Jun 2021,Freehold,False,"55, Crawley Road, London, Greater London E10 6RJ",Detached,5.0,True,51.56664,-0.01194,E10 6RJ, Crawley Road,2021
 120000,30 Jan 1997,Freehold,False,"55, Crawley Road, London, Greater London E10 6RJ",Detached,5.0,True,51.56664,-0.01194,E10 6RJ, Crawley Road,1997
-150000,28 Jun 2021,Leasehold,False,"91, Morley Road, London, Greater London E10 6LH",Flat,2.0,True,51.56714,-0.00441,E10 6LH, Morley Road,2021
 600000,28 Jun 2021,Freehold,False,"683, Lea Bridge Road, London, Greater London E10 6AL",Terraced,5.0,True,51.57773,-0.00842,E10 6AL, Lea Bridge Road,2021
 675000,28 Jun 2021,Freehold,False,"51, Nottingham Road, London, Greater London E10 6EP",Terraced,3.0,True,51.5771,-0.00268,E10 6EP, Nottingham Road,2021
 265500,5 May 2006,Freehold,False,"51, Nottingham Road, London, Greater London E10 6EP",Terraced,3.0,True,51.5771,-0.00268,E10 6EP, Nottingham Road,2006
@@ -423,7 +422,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 87500,15 Jan 2001,Leasehold,False,"84, Brunswick Road, London, Greater London E10 6RS",Flat,2.0,False,51.56667,-0.00804,E10 6RS, Brunswick Road,2001
 575000,1 Apr 2021,Freehold,False,"65, Thornhill Road, London, Greater London E10 5LL",Terraced,3.0,True,51.56181,-0.01359,E10 5LL, Thornhill Road,2021
 300000,31 Mar 2021,Leasehold,False,"59a, Lyndhurst Drive, London, Greater London E10 6JB",Flat,1.0,True,51.5719,-0.00391,E10 6JB, Lyndhurst Drive,2021
-265000,29 Mar 2018,Leasehold,False,"59a, Lyndhurst Drive, London, Greater London E10 6JB",Flat,1.0,True,51.5719,-0.00391,E10 6JB, Lyndhurst Drive,2018
 385612,31 Mar 2021,Leasehold,False,"62, Seymour Road, Leyton, London, Greater London E10 7LY",Flat,1.0,True,51.56765,-0.02892,E10 7LY, Seymour Road,2021
 306000,23 Mar 2017,Leasehold,False,"62, Seymour Road, Leyton, London, Greater London E10 7LY",Flat,1.0,True,51.56765,-0.02892,E10 7LY, Seymour Road,2017
 625000,30 Mar 2021,Freehold,False,"296, Capworth Street, London, Greater London E10 7BG",Terraced,5.0,True,51.56878,-0.02151,E10 7BG, Capworth Street,2021
@@ -462,12 +460,10 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 650000,26 Mar 2021,Freehold,False,"58, Scotts Road, London, Greater London E10 6LW",Terraced,4.0,True,51.56593,-0.00706,E10 6LW, Scotts Road,2021
 442500,26 Mar 2021,Leasehold,False,"68a, Chesterfield Road, London, Greater London E10 6EN",Terraced,2.0,True,51.57469,-0.00423,E10 6EN, Chesterfield Road,2021
 146000,21 Mar 2013,Leasehold,False,"68a, Chesterfield Road, London, Greater London E10 6EN",Terraced,2.0,True,51.57469,-0.00423,E10 6EN, Chesterfield Road,2013
-180000,26 Mar 2021,Leasehold,False,"Flat 44, Bridge Court, Lea Bridge Road, London, Greater London E10 7JS",Flat,2.0,True,51.56975,-0.0258,E10 7JS, Bridge Court,2021
 162000,25 Sep 2007,Leasehold,False,"Flat 44, Bridge Court, Lea Bridge Road, London, Greater London E10 7JS",Flat,2.0,True,51.56975,-0.0258,E10 7JS, Bridge Court,2007
 110000,14 May 2002,Leasehold,False,"Flat 44, Bridge Court, Lea Bridge Road, London, Greater London E10 7JS",Flat,2.0,True,51.56975,-0.0258,E10 7JS, Bridge Court,2002
 67500,2 Feb 2001,Leasehold,False,"Flat 44, Bridge Court, Lea Bridge Road, London, Greater London E10 7JS",Flat,2.0,True,51.56975,-0.0258,E10 7JS, Bridge Court,2001
 43000,26 Jun 1998,Leasehold,False,"Flat 44, Bridge Court, Lea Bridge Road, London, Greater London E10 7JS",Flat,2.0,True,51.56975,-0.0258,E10 7JS, Bridge Court,1998
-390000,26 Mar 2021,Freehold,False,"282, Murchison Road, London, Greater London E10 6LU",Terraced,3.0,False,51.5665,-0.00357,E10 6LU, Murchison Road,2021
 342000,31 Oct 2014,Freehold,False,"282, Murchison Road, London, Greater London E10 6LU",Terraced,3.0,False,51.5665,-0.00357,E10 6LU, Murchison Road,2014
 119000,9 Nov 2001,Freehold,False,"282, Murchison Road, London, Greater London E10 6LU",Terraced,3.0,False,51.5665,-0.00357,E10 6LU, Murchison Road,2001
 877750,25 Mar 2021,Freehold,False,"60, Grange Park Road, London, Greater London E10 5ES",Semi-Detached,4.0,True,51.56543,-0.01473,E10 5ES, Grange Park Road,2021
@@ -539,7 +535,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 285000,12 May 2015,Leasehold,False,"15, Bloxhall Road, London, Greater London E10 7LW",Flat,2.0,False,51.56731,-0.03009,E10 7LW, Bloxhall Road,2015
 611000,8 Mar 2021,Freehold,False,"14, Leasowes Road, London, Greater London E10 7BE",Terraced,3.0,True,51.56804,-0.0201,E10 7BE, Leasowes Road,2021
 89000,1 Apr 1999,Freehold,False,"14, Leasowes Road, London, Greater London E10 7BE",Terraced,3.0,True,51.56804,-0.0201,E10 7BE, Leasowes Road,1999
-340000,5 Mar 2021,Leasehold,False,"269a, High Road Leyton, London, Greater London E10 5QN",Flat,3.0,True,51.5593,-0.00822,E10 5QN, High Road Leyton,2021
 415000,5 Mar 2021,Leasehold,False,"146, Murchison Road, London, Greater London E10 6LX",Flat,2.0,True,51.56491,-0.00538,E10 6LX, Murchison Road,2021
 955000,5 Mar 2021,Freehold,False,"17, Sunnyside Road, London, Greater London E10 7BB",Terraced,4.0,True,51.56761,-0.02142,E10 7BB, Sunnyside Road,2021
 470000,8 Dec 2015,Freehold,False,"17, Sunnyside Road, London, Greater London E10 7BB",Terraced,4.0,True,51.56761,-0.02142,E10 7BB, Sunnyside Road,2015
@@ -550,7 +545,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 50000,28 Jan 1999,Leasehold,False,"277, Murchison Road, London, Greater London E10 6LT",Terraced,2.0,True,51.56596,-0.00331,E10 6LT, Murchison Road,1999
 518000,26 Feb 2021,Freehold,False,"31, Primrose Road, London, Greater London E10 5EE",Terraced,4.0,False,51.56651,-0.01468,E10 5EE, Primrose Road,2021
 147500,16 Apr 2002,Freehold,False,"31, Primrose Road, London, Greater London E10 5EE",Terraced,4.0,False,51.56651,-0.01468,E10 5EE, Primrose Road,2002
-191893,26 Feb 2021,Leasehold,False,"24, Claude Road, London, Greater London E10 6ND",Flat,2.0,False,51.56518,-0.00551,E10 6ND, Claude Road,2021
 130000,12 Dec 2003,Leasehold,False,"24, Claude Road, London, Greater London E10 6ND",Flat,2.0,False,51.56518,-0.00551,E10 6ND, Claude Road,2003
 100000,1 Aug 2003,Leasehold,False,"24, Claude Road, London, Greater London E10 6ND",Flat,2.0,False,51.56518,-0.00551,E10 6ND, Claude Road,2003
 600000,26 Feb 2021,Freehold,False,"60, Grosvenor Road, Leyton, London, Greater London E10 6LQ",Terraced,2.0,True,51.56717,-0.006,E10 6LQ, Grosvenor Road,2021
@@ -572,7 +566,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 139430,2 Apr 2001,Freehold,False,"35, Leyton Park Road, London, Greater London E10 5RJ",Semi-Detached,3.0,True,51.55972,-0.00676,E10 5RJ, Leyton Park Road,2001
 740000,25 Feb 2021,Freehold,False,"22, Dawlish Road, London, Greater London E10 6QD",Terraced,3.0,True,51.56471,-0.00914,E10 6QD, Dawlish Road,2021
 600000,14 Apr 2016,Freehold,False,"22, Dawlish Road, London, Greater London E10 6QD",Terraced,3.0,True,51.56471,-0.00914,E10 6QD, Dawlish Road,2016
-310000,25 Feb 2021,Leasehold,False,"137a, Francis Road, London, Greater London E10 6NT",Flat,2.0,False,51.56356,-0.00529,E10 6NT, Francis Road,2021
 43000,14 Feb 1996,Leasehold,False,"137a, Francis Road, London, Greater London E10 6NT",Flat,2.0,False,51.56356,-0.00529,E10 6NT, Francis Road,1996
 512500,25 Feb 2021,Freehold,False,"16, Primrose Road, London, Greater London E10 5ED",Terraced,2.0,True,51.566,-0.01629,E10 5ED, Primrose Road,2021
 388000,9 Nov 2016,Freehold,False,"16, Primrose Road, London, Greater London E10 5ED",Terraced,2.0,True,51.566,-0.01629,E10 5ED, Primrose Road,2016
@@ -663,7 +656,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 500000,1 Feb 2021,Freehold,False,"43, Belvedere Road, London, Greater London E10 7NW",Terraced,3.0,True,51.5688,-0.03349,E10 7NW, Belvedere Road,2021
 130000,23 Oct 2000,Freehold,False,"43, Belvedere Road, London, Greater London E10 7NW",Terraced,3.0,True,51.5688,-0.03349,E10 7NW, Belvedere Road,2000
 106000,14 Apr 2000,Freehold,False,"43, Belvedere Road, London, Greater London E10 7NW",Terraced,3.0,True,51.5688,-0.03349,E10 7NW, Belvedere Road,2000
-270000,29 Jan 2021,Freehold,False,"101, Skeltons Lane, London, Greater London E10 5BS",Terraced,3.0,True,51.57024,-0.01207,E10 5BS, Skeltons Lane,2021
 530000,29 Jan 2021,Freehold,False,"13, Wesley Road, London, Greater London E10 6JF",Terraced,2.0,True,51.57024,-0.00659,E10 6JF, Wesley Road,2021
 536000,29 Jan 2021,Leasehold,False,"172, Essex Road, Leyton, London, Greater London E10 6BT",Terraced,1.0,True,51.57796,-0.00581,E10 6BT, Essex Road,2021
 165000,2 Dec 2011,Leasehold,False,"172, Essex Road, Leyton, London, Greater London E10 6BT",Terraced,1.0,True,51.57796,-0.00581,E10 6BT, Essex Road,2011
@@ -704,7 +696,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 366000,11 Jan 2021,Leasehold,False,"49, Thornhill Gardens, London, Greater London E10 5EW",Flat,2.0,True,51.56213,-0.01127,E10 5EW, Thornhill Gardens,2021
 328000,5 May 2017,Leasehold,False,"49, Thornhill Gardens, London, Greater London E10 5EW",Flat,2.0,True,51.56213,-0.01127,E10 5EW, Thornhill Gardens,2017
 180000,11 Feb 2013,Leasehold,False,"49, Thornhill Gardens, London, Greater London E10 5EW",Flat,2.0,True,51.56213,-0.01127,E10 5EW, Thornhill Gardens,2013
-298000,8 Jan 2021,Leasehold,False,"10, Serbin Close, London, Greater London E10 6JL",Flat,2.0,False,51.5701,-0.00399,E10 6JL, Serbin Close,2021
 76000,14 Apr 2000,Leasehold,False,"10, Serbin Close, London, Greater London E10 6JL",Flat,2.0,False,51.5701,-0.00399,E10 6JL, Serbin Close,2000
 43000,27 Jun 1996,Leasehold,False,"10, Serbin Close, London, Greater London E10 6JL",Flat,2.0,False,51.5701,-0.00399,E10 6JL, Serbin Close,1996
 440000,8 Jan 2021,Leasehold,False,"99, Huxley Road, London, Greater London E10 5QX",Flat,2.0,True,51.56187,-0.00652,E10 5QX, Huxley Road,2021
@@ -729,10 +720,8 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 525000,7 Jan 2021,Freehold,False,"281, Capworth Street, London, Greater London E10 7AJ",Terraced,2.0,False,51.56946,-0.01874,E10 7AJ, Capworth Street,2021
 265000,5 Oct 2007,Freehold,False,"281, Capworth Street, London, Greater London E10 7AJ",Terraced,2.0,False,51.56946,-0.01874,E10 7AJ, Capworth Street,2007
 130000,30 Apr 2002,Freehold,False,"281, Capworth Street, London, Greater London E10 7AJ",Terraced,2.0,False,51.56946,-0.01874,E10 7AJ, Capworth Street,2002
-375000,7 Jan 2021,Freehold,False,"122, Chesterfield Road, London, Greater London E10 6EN",Terraced,3.0,True,51.57469,-0.00423,E10 6EN, Chesterfield Road,2021
 284000,28 Feb 2007,Freehold,False,"122, Chesterfield Road, London, Greater London E10 6EN",Terraced,3.0,True,51.57469,-0.00423,E10 6EN, Chesterfield Road,2007
 158000,28 Sep 2001,Freehold,False,"122, Chesterfield Road, London, Greater London E10 6EN",Terraced,3.0,True,51.57469,-0.00423,E10 6EN, Chesterfield Road,2001
-300000,6 Jan 2021,Leasehold,False,"Flat 11, Bridge Court, Lea Bridge Road, London, Greater London E10 7JS",Flat,2.0,True,51.56975,-0.0258,E10 7JS, Bridge Court,2021
 240000,8 Dec 2017,Leasehold,False,"Flat 11, Bridge Court, Lea Bridge Road, London, Greater London E10 7JS",Flat,2.0,True,51.56975,-0.0258,E10 7JS, Bridge Court,2017
 94000,28 Nov 2013,Leasehold,False,"Flat 11, Bridge Court, Lea Bridge Road, London, Greater London E10 7JS",Flat,2.0,True,51.56975,-0.0258,E10 7JS, Bridge Court,2013
 432000,5 Jan 2021,Leasehold,False,"111, Clementina Road, London, Greater London E10 7LU",Flat,2.0,False,51.56656,-0.02825,E10 7LU, Clementina Road,2021
@@ -867,7 +856,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 32500,14 Jun 1996,Leasehold,False,"45a, Claude Road, London, Greater London E10 6NG",Flat,2.0,True,51.56546,-0.00593,E10 6NG, Claude Road,1996
 239000,5 Nov 2020,Leasehold,False,"57, Jesse Road, London, Greater London E10 6NN",Flat,1.0,False,51.56588,-0.00937,E10 6NN, Jesse Road,2020
 54000,17 Dec 1999,Leasehold,False,"57, Jesse Road, London, Greater London E10 6NN",Flat,1.0,False,51.56588,-0.00937,E10 6NN, Jesse Road,1999
-737500,2 Nov 2020,Freehold,False,"35, Newport Road, London, Greater London E10 6PH",Terraced,1.0,False,51.56407,-0.00368,E10 6PH, Newport Road,2020
 550000,30 Oct 2020,Freehold,False,"9, Peterborough Road, London, Greater London E10 6DL",Terraced,3.0,True,51.57889,-0.0026,E10 6DL, Peterborough Road,2020
 462500,30 Oct 2020,Freehold,False,"8, Wiseman Road, London, Greater London E10 7BU",Terraced,3.0,True,51.56473,-0.02111,E10 7BU, Wiseman Road,2020
 160000,24 Feb 2004,Freehold,False,"8, Wiseman Road, London, Greater London E10 7BU",Terraced,3.0,True,51.56473,-0.02111,E10 7BU, Wiseman Road,2004
@@ -1094,7 +1082,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 36200,24 Jun 1997,Leasehold,False,"95, Tyndall Road, Leyton, London, Greater London E10 6QJ",Flat,2.0,True,51.56199,-0.00796,E10 6QJ, Tyndall Road,1997
 318000,3 Jul 2020,Leasehold,False,"37, Huxley Road, London, Greater London E10 5QT",Terraced,1.0,True,51.56083,-0.00844,E10 5QT, Huxley Road,2020
 81500,31 Aug 2001,Leasehold,False,"37, Huxley Road, London, Greater London E10 5QT",Terraced,1.0,True,51.56083,-0.00844,E10 5QT, Huxley Road,2001
-113000,1 Jul 2020,Leasehold,False,"102, Kettlebaston Road, London, Greater London E10 7PF",Flat,2.0,False,51.56688,-0.03141,E10 7PF, Kettlebaston Road,2020
 91000,27 Aug 2015,Leasehold,False,"102, Kettlebaston Road, London, Greater London E10 7PF",Flat,2.0,False,51.56688,-0.03141,E10 7PF, Kettlebaston Road,2015
 110000,23 Jun 2008,Leasehold,False,"102, Kettlebaston Road, London, Greater London E10 7PF",Flat,2.0,False,51.56688,-0.03141,E10 7PF, Kettlebaston Road,2008
 550000,29 Jun 2020,Freehold,False,"88, St Marys Road, Leyton, London, Greater London E10 5RF",Terraced,3.0,True,51.5615,-0.00552,E10 5RF, St Marys Road,2020
@@ -1125,7 +1112,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 54995,18 Mar 1998,Leasehold,False,"91, Seymour Road, Leyton, London, Greater London E10 7LZ",Flat,2.0,True,51.56764,-0.02834,E10 7LZ, Seymour Road,1998
 710000,6 May 2020,Freehold,False,"48, Colchester Road, Leyton, London, Greater London E10 6HB",Terraced,3.0,True,51.57274,-0.00561,E10 6HB, Colchester Road,2020
 590000,13 Mar 2018,Freehold,False,"48, Colchester Road, Leyton, London, Greater London E10 6HB",Terraced,3.0,True,51.57274,-0.00561,E10 6HB, Colchester Road,2018
-150000,4 May 2020,Leasehold,False,"Flat 23, Bridge Court, Lea Bridge Road, London, Greater London E10 7JS",Flat,2.0,False,51.56975,-0.0258,E10 7JS, Bridge Court,2020
 425000,1 May 2020,Leasehold,False,"566, High Road Leyton, London, Greater London E10 6RL",Flat,2.0,True,51.56696,-0.00933,E10 6RL, High Road Leyton,2020
 79000,7 Apr 2000,Leasehold,False,"566, High Road Leyton, London, Greater London E10 6RL",Flat,2.0,True,51.56696,-0.00933,E10 6RL, High Road Leyton,2000
 720000,1 May 2020,Freehold,False,"21, Cromer Road, London, Greater London E10 6JA",Terraced,4.0,True,51.57339,-0.00168,E10 6JA, Cromer Road,2020
@@ -1247,7 +1233,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 333000,10 Feb 2020,Leasehold,False,"43, Dawlish Road, London, Greater London E10 6QB",Flat,1.0,True,51.5647,-0.00856,E10 6QB, Dawlish Road,2020
 135500,24 Feb 2010,Leasehold,False,"43, Dawlish Road, London, Greater London E10 6QB",Flat,1.0,True,51.5647,-0.00856,E10 6QB, Dawlish Road,2010
 79995,29 Jun 2001,Leasehold,False,"43, Dawlish Road, London, Greater London E10 6QB",Flat,1.0,True,51.5647,-0.00856,E10 6QB, Dawlish Road,2001
-210000,7 Feb 2020,Leasehold,False,"66, Newport Road, London, Greater London E10 6PQ",Flat,2.0,True,51.56486,-0.00206,E10 6PQ, Newport Road,2020
 59950,3 Jan 2002,Freehold,False,"66, Newport Road, London, Greater London E10 6PQ",Flat,2.0,True,51.56486,-0.00206,E10 6PQ, Newport Road,2002
 57500,4 Apr 2001,Leasehold,False,"66, Newport Road, London, Greater London E10 6PQ",Flat,2.0,True,51.56486,-0.00206,E10 6PQ, Newport Road,2001
 350000,7 Feb 2020,Leasehold,False,"3, Brewster Road, London, Greater London E10 6RG",Flat,2.0,True,51.56843,-0.01128,E10 6RG, Brewster Road,2020
@@ -1326,7 +1311,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 250000,30 Jan 2008,Freehold,False,"133, Seymour Road, Leyton, London, Greater London E10 7LZ",Terraced,3.0,True,51.56764,-0.02834,E10 7LZ, Seymour Road,2008
 475000,6 Dec 2019,Freehold,False,"2, Lindley Road, London, Greater London E10 6QT",Semi-Detached,3.0,True,51.56417,-0.00959,E10 6QT, Lindley Road,2019
 460000,24 Jul 2015,Freehold,False,"2, Lindley Road, London, Greater London E10 6QT",Semi-Detached,3.0,True,51.56417,-0.00959,E10 6QT, Lindley Road,2015
-210000,6 Dec 2019,Leasehold,False,"347a, High Road Leyton, London, Greater London E10 5NA",Flat,1.0,False,51.56095,-0.01031,E10 5NA, High Road Leyton,2019
 80000,11 Apr 2002,Leasehold,False,"347a, High Road Leyton, London, Greater London E10 5NA",Flat,1.0,False,51.56095,-0.01031,E10 5NA, High Road Leyton,2002
 602500,6 Dec 2019,Freehold,False,"36, Goldsmith Road, Leyton, London, Greater London E10 5HA",Terraced,3.0,True,51.56482,-0.01606,E10 5HA, Goldsmith Road,2019
 55000,2 Jul 1996,Freehold,False,"36, Goldsmith Road, Leyton, London, Greater London E10 5HA",Terraced,3.0,True,51.56482,-0.01606,E10 5HA, Goldsmith Road,1996
@@ -1375,7 +1359,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 416000,22 Dec 2016,Leasehold,False,"33, Scotts Road, London, Greater London E10 6LN",Flat,2.0,False,51.56664,-0.00645,E10 6LN, Scotts Road,2016
 93000,16 May 2001,Leasehold,False,"33, Scotts Road, London, Greater London E10 6LN",Flat,2.0,False,51.56664,-0.00645,E10 6LN, Scotts Road,2001
 70000,23 Aug 2000,Leasehold,False,"33, Scotts Road, London, Greater London E10 6LN",Flat,2.0,False,51.56664,-0.00645,E10 6LN, Scotts Road,2000
-711000,7 Nov 2019,Freehold,False,"16, Scotts Road, London, Greater London E10 6LW",Terraced,3.0,True,51.56593,-0.00706,E10 6LW, Scotts Road,2019
 590000,20 Jul 2017,Freehold,False,"16, Scotts Road, London, Greater London E10 6LW",Terraced,3.0,True,51.56593,-0.00706,E10 6LW, Scotts Road,2017
 223000,18 Mar 2004,Freehold,False,"16, Scotts Road, London, Greater London E10 6LW",Terraced,3.0,True,51.56593,-0.00706,E10 6LW, Scotts Road,2004
 495000,6 Nov 2019,Freehold,False,"5, Griggs Road, London, Greater London E10 6ET",Terraced,3.0,True,51.57524,-0.00463,E10 6ET, Griggs Road,2019
@@ -1519,11 +1502,9 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 135500,12 Sep 2003,Leasehold,False,"143a, Manor Road, Leyton, London, Greater London E10 7HW",Flat,2.0,True,51.5711,-0.02026,E10 7HW, Manor Road,2003
 110000,9 Dec 2002,Leasehold,False,"143a, Manor Road, Leyton, London, Greater London E10 7HW",Flat,2.0,True,51.5711,-0.02026,E10 7HW, Manor Road,2002
 545000,16 Aug 2019,Freehold,False,"93, Nottingham Road, London, Greater London E10 6EP",Terraced,4.0,True,51.5771,-0.00268,E10 6EP, Nottingham Road,2019
-640000,13 Aug 2019,Freehold,False,"6, Whitney Road, London, Greater London E10 7HG",Terraced,1.0,False,51.57167,-0.01677,E10 7HG, Whitney Road,2019
 351000,12 Aug 2019,Leasehold,False,"1, Brisbane Road, London, Greater London E10 5NE",Flat,1.0,True,51.55998,-0.01122,E10 5NE, Brisbane Road,2019
 236000,12 Dec 2014,Leasehold,False,"1, Brisbane Road, London, Greater London E10 5NE",Flat,1.0,True,51.55998,-0.01122,E10 5NE, Brisbane Road,2014
 555000,9 Aug 2019,Freehold,False,"13, Epsom Road, London, Greater London E10 6ES",Semi-Detached,3.0,True,51.57482,-0.00624,E10 6ES, Epsom Road,2019
-801700,9 Aug 2019,Freehold,False,"2, Claude Road, London, Greater London E10 6ND",Semi-Detached,2.0,False,51.56518,-0.00551,E10 6ND, Claude Road,2019
 460000,27 Sep 2013,Freehold,False,"2, Claude Road, London, Greater London E10 6ND",Semi-Detached,2.0,False,51.56518,-0.00551,E10 6ND, Claude Road,2013
 334000,21 Sep 2007,Freehold,False,"2, Claude Road, London, Greater London E10 6ND",Semi-Detached,2.0,False,51.56518,-0.00551,E10 6ND, Claude Road,2007
 54000,22 Mar 1996,Freehold,False,"2, Claude Road, London, Greater London E10 6ND",Semi-Detached,2.0,False,51.56518,-0.00551,E10 6ND, Claude Road,1996
@@ -1551,16 +1532,12 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 58000,3 Jun 1996,Freehold,False,"37, Waterloo Road, London, Greater London E10 7HR",Terraced,2.0,True,51.57067,-0.02172,E10 7HR, Waterloo Road,1996
 830000,23 Jul 2019,Freehold,False,"4, Manor Road, Leyton, London, Greater London E10 7AL",Semi-Detached,5.0,True,51.56845,-0.01792,E10 7AL, Manor Road,2019
 103500,30 Jan 1995,Freehold,False,"4, Manor Road, Leyton, London, Greater London E10 7AL",Semi-Detached,5.0,True,51.56845,-0.01792,E10 7AL, Manor Road,1995
-242500,23 Jul 2019,Freehold,False,"13, Alexandra Road, Leyton, London, Greater London E10 5QQ",Terraced,3.0,False,51.55775,-0.00728,E10 5QQ, Alexandra Road,2019
 204000,20 Dec 2002,Freehold,False,"13, Alexandra Road, Leyton, London, Greater London E10 5QQ",Terraced,3.0,False,51.55775,-0.00728,E10 5QQ, Alexandra Road,2002
-560000,19 Jul 2019,Freehold,False,"75, Nottingham Road, London, Greater London E10 6EP",Terraced,1.0,False,51.5771,-0.00268,E10 6EP, Nottingham Road,2019
 390000,18 Jul 2019,Leasehold,False,"68a, Dawlish Road, London, Greater London E10 6QD",Flat,3.0,False,51.56471,-0.00914,E10 6QD, Dawlish Road,2019
 193000,11 Jun 2007,Leasehold,False,"68a, Dawlish Road, London, Greater London E10 6QD",Flat,3.0,False,51.56471,-0.00914,E10 6QD, Dawlish Road,2007
 129995,19 Nov 2004,Leasehold,False,"68a, Dawlish Road, London, Greater London E10 6QD",Flat,3.0,False,51.56471,-0.00914,E10 6QD, Dawlish Road,2004
 488000,17 Jul 2019,Freehold,False,"19, Griggs Road, London, Greater London E10 6ET",Terraced,3.0,True,51.57524,-0.00463,E10 6ET, Griggs Road,2019
 270000,22 Feb 2013,Freehold,False,"19, Griggs Road, London, Greater London E10 6ET",Terraced,3.0,True,51.57524,-0.00463,E10 6ET, Griggs Road,2013
-235000,17 Jul 2019,Leasehold,False,"61b, Lyndhurst Drive, London, Greater London E10 6JB",Flat,1.0,True,51.5719,-0.00391,E10 6JB, Lyndhurst Drive,2019
-300000,12 Jul 2019,Freehold,False,"43, St Georges Road, Leyton, London, Greater London E10 5RQ",Terraced,2.0,False,51.5603,-0.00413,E10 5RQ, St Georges Road,2019
 475000,12 Jul 2019,Freehold,False,"8, Primrose Road, London, Greater London E10 5ED",Terraced,3.0,False,51.566,-0.01629,E10 5ED, Primrose Road,2019
 425000,12 Feb 2016,Freehold,False,"8, Primrose Road, London, Greater London E10 5ED",Terraced,3.0,False,51.566,-0.01629,E10 5ED, Primrose Road,2016
 150000,4 Aug 2006,Freehold,False,"8, Primrose Road, London, Greater London E10 5ED",Terraced,3.0,False,51.566,-0.01629,E10 5ED, Primrose Road,2006
@@ -1575,7 +1552,6 @@ Price,Date_Sold,Tenure_Type,New_Build,Address,Property_Type,Num_Bedrooms,Floorpl
 162000,6 Jun 2007,Freehold,False,"63, Crawley Road, London, Greater London E10 6RJ",Flat,2.0,False,51.56664,-0.01194,E10 6RJ, Crawley Road,2007
 129995,26 Jan 2004,Leasehold,False,"63, Crawley Road, London, Greater London E10 6RJ",Flat,2.0,False,51.56664,-0.01194,E10 6RJ, Crawley Road,2004
 74000,23 May 2001,Leasehold,False,"63, Crawley Road, London, Greater London E10 6RJ",Flat,2.0,False,51.56664,-0.01194,E10 6RJ, Crawley Road,2001
-188000,4 Jul 2019,Leasehold,False,"34a, Radlix Road, London, Greater London E10 7BD",Flat,1.0,False,51.56687,-0.02001,E10 7BD, Radlix Road,2019
 71000,2 Nov 2001,Leasehold,False,"34a, Radlix Road, London, Greater London E10 7BD",Flat,1.0,False,51.56687,-0.02001,E10 7BD, Radlix Road,2001
 300000,1 Jul 2019,Leasehold,False,"11a, Fletcher Lane, London, Greater London E10 6JE",Flat,1.0,False,51.57042,-0.00672,E10 6JE, Fletcher Lane,2019
 450000,28 Jun 2019,Freehold,False,"130, Manor Road, Leyton, London, Greater London E10 7HW",Terraced,2.0,False,51.5711,-0.02026,E10 7HW, Manor Road,2019
